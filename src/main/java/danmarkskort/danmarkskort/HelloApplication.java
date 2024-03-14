@@ -1,4 +1,4 @@
-java package danmarkskort.danmarkskort;
+package danmarkskort.danmarkskort;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
